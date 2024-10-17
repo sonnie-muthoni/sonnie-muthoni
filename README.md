@@ -1,6 +1,6 @@
 ## Hi there 👋 stranger
 
-<!--
+
 
 
 🔭 I’m currently working on an exciting project where people can contribute to stories through a crowd sourcing platform 
@@ -11,4 +11,4 @@
 📫 How to reach me: njengamuthoni6@gmail.com or connect with me on LinkedIn.
 😄 Pronouns: she/her.
 ⚡ Fun fact: I love Tea!
--->
+
