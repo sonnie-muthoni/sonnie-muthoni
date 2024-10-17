@@ -10,8 +10,12 @@
 👯 I’m looking to collaborate on Web development and open source projects.
 
 🤔 I’m looking for help with understanding Data structures and algorithms.
+
 💬 Ask me about javascript and Html.
+
 📫 How to reach me: njengamuthoni6@gmail.com or connect with me on LinkedIn.
+
 😄 Pronouns: she/her.
+
 ⚡ Fun fact: I love Tea!
 
